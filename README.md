@@ -14,7 +14,7 @@ stop - Stops the stopwatch
 
   Discord: *Neoptunium#1111*
 
-  Email: *hypnoticnoah@gmail.com*
+  Email: *neoptunium@gmail.com*
 
 # Dependencies 
 discord.js 
